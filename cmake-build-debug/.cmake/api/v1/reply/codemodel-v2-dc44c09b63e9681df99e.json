@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "2192__All_Ancestors_of_a_Node_in_a_Directed_Acyclic_Graph",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "2192__All_Ancestors_of_a_Node_in_a_Directed_Acyclic_Graph::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2192__All_Ancestors_of_a_Node_in_a_Directed_Acyclic_Graph-Debug-868800eae745b97fbe02.json",
+					"name" : "2192__All_Ancestors_of_a_Node_in_a_Directed_Acyclic_Graph",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Rozne/C++/CLion/2192. All Ancestors of a Node in a Directed Acyclic Graph/cmake-build-debug",
+		"source" : "D:/Rozne/C++/CLion/2192. All Ancestors of a Node in a Directed Acyclic Graph"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

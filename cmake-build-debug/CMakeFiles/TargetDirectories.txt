@@ -1,0 +1,3 @@
+D:/Rozne/C++/CLion/2192. All Ancestors of a Node in a Directed Acyclic Graph/cmake-build-debug/CMakeFiles/2192__All_Ancestors_of_a_Node_in_a_Directed_Acyclic_Graph.dir
+D:/Rozne/C++/CLion/2192. All Ancestors of a Node in a Directed Acyclic Graph/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Rozne/C++/CLion/2192. All Ancestors of a Node in a Directed Acyclic Graph/cmake-build-debug/CMakeFiles/rebuild_cache.dir
